@@ -113,7 +113,7 @@ Additional Evidence for the Best Use of COOL Award
 
     • A reproducible evaluation method, inputs, baselines, and results.
 
-    • Evidence that COOL executes the claimed core workload.
+    • Evidence that COOL executes the claimed core workload. 
 
 Additional Evidence for the Agentic Vision Award
     • An agent workflow diagram showing perception, decision or orchestration, and action.
