@@ -1,122 +1,348 @@
-# AWSOpenCVAICompetition2026
+# AWS + OpenCV AI Competition 2026
 
-About The Competition
-    • Competition launch, registration, and proposal submission—runs August 12- 2026; proposals are accepted starting August 13.
+## About the Competition
 
-    • 50 teams will be selected to receive a cloud compute grant valued at $150. All other teams, including those that submit the cloud compute grant proposal remain eligible to continue to the two-month build phase. Apply for your grant here.
+Build an ambitious computer vision application using **OpenCV 5** and **Amazon Web Services (AWS)**.
 
-    • Final projects are due October 26, 2026, at 11:59 p.m. Pacific Time.
+The competition focuses on **Physical AI** and **Generative AI** systems where visual understanding leads to useful decisions, actions, predictions, or interactions.
 
-    • Every entry must use OpenCV 5 for substantive image or video analysis and run a meaningful component on AWS.
+Projects may pursue one or both featured prize paths, or take another approach while remaining eligible for the main competition.
 
-    • Two optional featured paths offer separate $1,000 awards: the Best Use of COOL Award and the Agentic Vision Award.
+### Key Dates
 
-Sponsor: Amazon Web Services (“Amazon” or “Sponsor”) 
+| Milestone | Date |
+| --- | --- |
+| Competition Launch | August 12, 2026 |
+| Proposal Submissions Open | August 13, 2026 |
+| Build Phase Begins | August 26, 2026 |
+| Grant Recipient Check-In | October 7–14, 2026 |
+| **Final Submission Deadline** | **October 26, 2026 at 11:59 PM PT** |
+| Final Judging | October 27 – November 9, 2026 |
+| Winner Announcement | November 10, 2026 |
 
-Administrator: OpenCV Foundation (OpenCV or Administrator, and together with Amazon, the “organizers”) 
+### Core Requirements
 
-Join, Build, and Win
-Turn an ambitious idea into a working vision application, demonstrate measurable value, and share it with the global OpenCV community.
+Every submission must:
 
-The competition emphasizes Physical AI and Generative AI systems in which visual understanding drives useful decisions, actions, predictions, or interactions. Entries may pursue either featured path below, combine both, or take another approach and remain fully eligible to win a prize..
+- Use **OpenCV 5** for substantive image or video analysis.
+- Run a meaningful component on **AWS**.
+- Demonstrate a working vision application.
+- Include measurable evaluation evidence.
+- Document limitations and responsible-use considerations.
 
-Projects may use any programming language or supporting hardware, provided they meet the core OpenCV 5 and AWS requirements on this page.
+Projects may use any programming language or supporting hardware.
 
-Build Phase — Two Months
-From August 26 through October 26, teams will build, evaluate, document, and submit their final projects.
+---
 
-    • Teams are encouraged to join the official Slack channel to collaborate with others, and to use the #OpenCVComp26 hashtag on social media to share progress and milestones.
+## AWS Compute Grant
 
-    • Teams who received a cloud compute grant must complete one 30-minute Zoom check-in with an organizing committee member during October 7-14 to receive the other 50% of their grant.
+**50 teams** will be selected to receive an AWS cloud compute grant valued at **$150**.
 
-    • Teams must maintain active development and provide a concise progress update at the check-in.
+Teams that apply but do not receive the grant may still participate in the full competition.
 
-    • Final submissions are due on October 26 at 11:59 p.m. Pacific Time.
+### Grant Proposal Requirements
 
-Final Judging and Winners
-Final judging will take place from October 27 through November 9. Winners are scheduled to be announced on November 10 during an OpenCV Live! webinar or another announced OpenCV channel.
-
-What AWS Grant Proposals Must Include
 Each proposal must include:
 
-A team name
-A clear problem statement and intended real-world impact.
-The planned OpenCV 5 image or video analysis.
-The planned AWS architecture and services.
-A high-level architecture diagram or technical description.
-The target users or beneficiaries.
-The proposed evaluation method and judge demonstration.
-Whether the team intends to pursue the COOL path, the Agentic Vision path, both, or neither.
-Team Bio: A short team bio of all team members and their participation in any hackathons or competitions. Team strength will be used to judge the recipients of the cloud compute grant.
-Apply For an AWS Compute Grant Here
+- Team name
+- Problem statement
+- Intended real-world impact
+- Planned OpenCV 5 image or video analysis
+- Planned AWS architecture and services
+- High-level architecture diagram or technical description
+- Target users or beneficiaries
+- Proposed evaluation method
+- Planned judge demonstration
+- Intended competition path:
+  - COOL
+  - Agentic Vision
+  - Both
+  - Neither
+- Short team bio
+- Previous hackathon or competition participation
 
-Free AWS Credits for New Members
-New AWS customers are eligible to receive $100 in AWS Free Tier credits when they sign up for a Free Plan account and may earn up to $100 more through eligible activities. Teams may use these credits for eligible AWS services in this competition, subject to current AWS Free Tier terms, service availability, and expiration rules. Use of the Free Tier Credits is subject to the AWS Promotional Credit Terms & Conditions. AWS Promotional Credits are not redeemable for cash and can only be applied to AWS Services.
+**[Apply for an AWS Compute Grant](https://www.jotform.com/form/262145877145059)**
 
-Requirements
-Suggested Project Areas
-Projects are not limited to these areas, but the organizers especially welcome:
+---
 
-    • Active perception for autonomous inspection with agentic orchestration or MCP.
+## Build Phase
 
-    • Physics-informed video prediction for process control.
+The build phase runs from **August 26 through October 26, 2026**.
 
-    • Multi-agent visual SLAM with distributed context.
+During this period, teams should build, evaluate, document, and prepare their final submission.
 
-    • Real-time spatial digital twins.
+Teams are encouraged to:
 
-    • COOL-based server, serverless, container, or hybrid x86/Arm vision pipelines.
+- Join the official competition Slack.
+- Share progress using `#OpenCVComp26`.
+- Maintain active development throughout the competition.
 
-    • Developer agents that integrate COOL with tools such as Codex, Claude Code, Kiro, or MCP-compatible systems.
+Teams receiving an AWS compute grant must complete a **30-minute Zoom check-in between October 7 and October 14** to receive the remaining 50% of the grant.
 
-    • Healthcare, safety, accessibility, agriculture, environmental monitoring, smart cities, education, retail, and sports analytics.
+The check-in requires a concise progress update and evidence of active development.
 
-Final Submission Requirements
-    • A technical report describing the problem, users, architecture, OpenCV 5 implementation, AWS deployment, evaluation, limitations, and responsible-use considerations.
+---
 
-    • A public or private judge-accessible code repository or archive. The code does not have to be open source.
+# Suggested Project Areas
 
-    • Pinned dependencies plus clear build, deployment, and test instructions.
+The organizers especially welcome projects involving:
 
-    • An architecture diagram showing the OpenCV 5 and AWS components and, where relevant, COOL or agent components.
+- Active perception for autonomous inspection
+- Agentic orchestration or MCP
+- Physics-informed video prediction
+- Process control
+- Multi-agent visual SLAM
+- Distributed visual context
+- Real-time spatial digital twins
+- Cloud-optimized vision pipelines
+- Hybrid x86/Arm architectures
+- Developer agents using OpenCV or COOL
+- Healthcare
+- Safety
+- Accessibility
+- Agriculture
+- Environmental monitoring
+- Smart cities
+- Education
+- Retail
+- Sports analytics
 
-    • A working web endpoint or an arranged live screen-share demonstration.
+---
 
-    • A public or unlisted judge-accessible video of no more than five minutes that shows the team, the application working, its architecture, and its principal results.
+# Featured Prize Paths
 
-    • Evaluation evidence appropriate to the project, including failure cases or limitations.
+## ☁️ Cloud-Optimized Vision with COOL
 
-Focus Paths (Special Prizes)
-Cloud-Optimized Vision with COOL
-Use the Cloud-Optimized OpenCV Library (COOL), available through AWS Marketplace and optimized for AWS Graviton, to accelerate widely used vision operations and move from prototype to scalable cloud deployment. For Best Use of COOL Award eligibility, COOL must execute the claimed core workload on AWS Graviton or the Arm component of a documented hybrid architecture. Strong submissions will document a reproducible deployment and comparison against an appropriate baseline. Strong submissions will:
+The **Cloud-Optimized OpenCV Library (COOL)** is optimized for AWS Graviton and designed to accelerate common computer vision workloads in cloud environments.
 
-    • Show that COOL executes the core image or video workload on the Arm path.
+To qualify for the **Best Use of COOL Award**, COOL must execute the claimed core workload on:
 
-    • Report reproducible measurements such as latency, throughput, utilization, cost, or developer productivity against an appropriate baseline.
+- AWS Graviton, or
+- the Arm component of a documented hybrid architecture.
 
-    • Explain any x86 and Arm coexistence, container, server, or serverless architecture.
+Strong submissions should:
 
-Agentic Vision with OpenCV 5
-Build a workflow in which an agent uses OpenCV 5 tools within a multi-step perception-decision-action loop. To qualify, image or video results must influence a subsequent plan, tool call, action, or request for human approval. A chatbot that only explains a fixed vision result is not enough—the visual evidence must change what the system does next.
+- Demonstrate that COOL executes the core vision workload.
+- Provide reproducible deployment instructions.
+- Compare performance against an appropriate baseline.
+- Explain the system's x86/Arm, container, server, or serverless architecture.
 
-    • Examples include autonomous inspection, visual troubleshooting, embodied assistants, active perception, safety monitoring, and human-in-the-loop operations.
+### Suggested Evaluation Metrics
 
-    • The agent may use any framework or model and may invoke OpenCV 5 and, where applicable, COOL through APIs, tools, or Model Context Protocol (MCP).
+Possible measurements include:
 
-    • A developer-agent workflow qualifies only when it iteratively invokes, evaluates, and adjusts an OpenCV 5 workload, with COOL where applicable—for example, by using visual test outputs or runtime measurements to change a later tool call, configuration, or deployment—and culminates in a running image or video workload.
+- Latency
+- Throughput
+- CPU utilization
+- Memory utilization
+- Cost
+- Developer productivity
 
-    • Using an AI coding assistant to write the entry does not qualify as an agentic workflow.
+### Required COOL Evidence
 
-Additional Evidence for the Best Use of COOL Award
-    • The COOL version and AWS instance or deployment configuration.
+Submissions pursuing this award should include:
 
-    • A reproducible evaluation method, inputs, baselines, and results.
+- COOL version
+- AWS instance or deployment configuration
+- Reproducible evaluation methodology
+- Evaluation inputs
+- Baseline implementation
+- Benchmark results
+- Evidence that COOL executes the claimed core workload
 
-    • Evidence that COOL executes the claimed core workload. 
+---
 
-Additional Evidence for the Agentic Vision Award
-    • An agent workflow diagram showing perception, decision or orchestration, and action.
+## 🤖 Agentic Vision with OpenCV 5
 
-    • A trace or demonstration showing that OpenCV 5 output changes a later decision, tool call, or action.
+The **Agentic Vision Award** focuses on systems where visual perception actively changes what an AI system does next.
 
-    • Evaluation of task success, failure handling, observability, and appropriate human control.
+A qualifying workflow should resemble:
+
+```text
+PERCEPTION
+    ↓
+OpenCV 5 analyzes visual input
+    ↓
+DECISION
+    ↓
+Agent interprets the result
+    ↓
+ACTION
+    ↓
+System performs a tool call,
+changes its plan,
+takes an action,
+or requests human approval
+    ↓
+NEW VISUAL INPUT
+    ↓
+LOOP
+```
+
+The important requirement is:
+
+> **Visual evidence must change the system's next action.**
+
+A chatbot that simply describes a fixed vision result does **not** qualify.
+
+Possible applications include:
+
+- Autonomous inspection
+- Visual troubleshooting
+- Embodied assistants
+- Active perception
+- Safety monitoring
+- Human-in-the-loop operations
+
+Agents may use any framework or model and may invoke OpenCV 5 or COOL through:
+
+- APIs
+- Tools
+- Model Context Protocol (MCP)
+
+### Developer Agents
+
+Developer-agent workflows may also qualify, but the agent must iteratively:
+
+1. Invoke an OpenCV workload.
+2. Inspect visual outputs or runtime measurements.
+3. Modify a later tool call, configuration, or deployment.
+4. Evaluate the new result.
+5. Ultimately produce a running image or video workload.
+
+Simply using an AI coding assistant to build the project does **not** qualify.
+
+### Required Agentic Vision Evidence
+
+Submissions pursuing this award should include:
+
+- Agent workflow diagram
+- Perception → decision → action trace
+- Demonstration showing that OpenCV output changes a later action
+- Task-success evaluation
+- Failure-handling evaluation
+- Observability
+- Appropriate human control
+
+---
+
+# Final Submission Requirements
+
+Final projects are due:
+
+> **October 26, 2026 at 11:59 PM Pacific Time**
+
+Each submission must include:
+
+### Technical Report
+
+Describe:
+
+- Problem
+- Target users
+- Architecture
+- OpenCV 5 implementation
+- AWS deployment
+- Evaluation
+- Limitations
+- Responsible-use considerations
+
+### Code
+
+Provide either:
+
+- A public repository, or
+- A private repository/archive accessible to judges.
+
+The project does **not** need to be open source.
+
+Include:
+
+- Pinned dependencies
+- Build instructions
+- Deployment instructions
+- Test instructions
+
+### Architecture Diagram
+
+The diagram should clearly identify:
+
+```text
+Input
+  ↓
+OpenCV 5
+  ↓
+Vision / Perception Layer
+  ↓
+AI / Agent Layer
+  ↓
+AWS Infrastructure
+  ↓
+Decision / Action
+```
+
+Where applicable, identify:
+
+- COOL components
+- Agent components
+- MCP tools
+- Human approval steps
+
+### Working Demonstration
+
+Provide either:
+
+- A working web endpoint, or
+- An arranged live screen-share demonstration.
+
+### Demo Video
+
+Submit a public or unlisted judge-accessible video of **no more than five minutes**.
+
+The video should show:
+
+1. The team
+2. The application working
+3. System architecture
+4. OpenCV 5 usage
+5. AWS integration
+6. Principal results
+
+### Evaluation Evidence
+
+Include evaluation appropriate to the project.
+
+This should ideally contain:
+
+- Quantitative metrics
+- Representative successful examples
+- Failure cases
+- Known limitations
+
+---
+
+# Judging Timeline
+
+Final judging runs from:
+
+**October 27 – November 9, 2026**
+
+Winners are scheduled to be announced:
+
+**November 10, 2026**
+
+during an **OpenCV Live!** webinar or another official OpenCV channel.
+
+---
+
+# Free AWS Credits
+
+New AWS customers may qualify for **$100 in AWS Free Tier credits** when creating a Free Plan account and may earn up to another $100 through eligible activities.
+
+See:
+
+- [AWS Free Tier](https://aws.amazon.com/free/)
+- [AWS Free Tier Terms](https://aws.amazon.com/free/terms/?p=ft&z=subnav&loc=6)
+- [AWS Promotional Credit Terms](https://aws.amazon.com/awscredits/)
+
+AWS promotional credits are not redeemable for cash and may only be applied toward eligible AWS services.
